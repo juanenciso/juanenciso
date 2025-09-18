@@ -18,9 +18,10 @@ Currently based in Vienna 🇦🇹, exploring innovation at the intersection of 
 
 ## 📊 GitHub Stats
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanenciso&show_icons=true&theme=default)  
+![Juan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juanenciso&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanenciso&layout=compact&theme=default)  
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanenciso&layout=compact&theme=default)
+
 
 ---
 
