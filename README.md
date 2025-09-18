@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# Hello there 👋
 
 I'm **Juan Enciso**, a Data Scientist & Bioinformatician with a PhD in Biotechnology.  
 I specialize in **Next-Generation Sequencing (NGS), microbial communities, and data-driven insights** for biotech and life sciences.  
