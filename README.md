@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**juanenciso/juanenciso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there 👋
 
-Here are some ideas to get you started:
+I'm **Juan Enciso**, a Data Scientist & Bioinformatician with a PhD in Biotechnology.  
+I specialize in **Next-Generation Sequencing (NGS), microbial communities, and data-driven insights** for biotech and life sciences.  
+Currently based in Vienna 🇦🇹, exploring innovation at the intersection of biology and data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🔭 Current Projects
+- Building **metagenomics & metabarcoding pipelines** in R/Python  
+- Analyzing microbial diversity with **QIIME2** & ecological metrics  
+- Creating **data visualizations** (ggplot2, matplotlib, plotly)  
+- Exploring applications of **data science in biotech & industry**  
+
+---
+
+## 📊 GitHub Stats
+
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanenciso&show_icons=true&theme=default)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanenciso&layout=compact&theme=default)  
+
+---
+
+## 🌐 Find me around the web 🌍
+- [LinkedIn](https://www.linkedin.com/in/juanenciso) 💼  
+- [GitHub](https://github.com/juanenciso) 🧬  
+- 📧 Email: juan.enciso@email.com  
+
+---
+
+## 🛠️ Tools & Skills
+![Python](https://img.shields.io/badge/Python-3.10-blue) 
+![R](https://img.shields.io/badge/R-4.3-green) 
+![QIIME2](https://img.shields.io/badge/QIIME2-Metabarcoding-orange)  
+![NGS](https://img.shields.io/badge/NGS-Analysis-purple) 
+![GMP](https://img.shields.io/badge/Quality-GMP-lightgrey)
+
+---
+
+## 🌎 Languages I speak
+🇪🇸 Spanish | 🇺🇸 English | 🇩🇪 German (B2) | 🇮🇹 Italian (B2)  
+
+---
+
+✨ Thanks for visiting my profile!
+
 -->
