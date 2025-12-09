@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-I'm **Juan Sebastian Enciso**, a Data Scientist  with a PhD in Biotechnology.  
-I specialize in **Next-Generation Sequencing (NGS), microbial communities, and data-driven insights** for biotech and life sciences.  
+I'm **Juan Sebastian Enciso**, a Data Scientist  with a PhD in Biotechnology and Food Engineering.  
+I specialize in **Machine Learning, MLOps and end-to-end forecasting** for FAAMS and biotech.  
 Based in Central Europe 🇩🇪🇦🇹🇨🇭, open to opportunities across the **DACH region** and beyond.
 
 
 ---
 
 ## 🔭 Current Projects
-- Building **metagenomics & metabarcoding pipelines** in R/Python  
-- Analyzing microbial diversity with **QIIME2** & ecological metrics  
-- Creating **data visualizations** (ggplot2, matplotlib, plotly)  
-- Exploring applications of **data science in biotech & industry**  
+- Building **2,0000+ agent simulation system** for behavioral modeling  
+- Creating **forecasting pipelines** for marketing analytics (Sklearn, XGBoost)
+- Deploying **ML models as APIs** using FastAPI + Docker +CI/CD
+- Developing a **feature engineering & data cleaning toolkit** (Pandas/Polars) 
 
 ---
 
