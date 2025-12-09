@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Juan Sebastian Enciso**, a Data Scientist & Bioinformatician with a PhD in Biotechnology.  
+I'm **Juan Sebastian Enciso**, a Data Scientist  with a PhD in Biotechnology.  
 I specialize in **Next-Generation Sequencing (NGS), microbial communities, and data-driven insights** for biotech and life sciences.  
 Based in Central Europe 🇩🇪🇦🇹🇨🇭, open to opportunities across the **DACH region** and beyond.
 
