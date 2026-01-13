@@ -26,9 +26,9 @@ Based in Central Europe 🇩🇪🇦🇹🇨🇭, open to opportunities across t
 ---
 
 ## 🌐 Find me around the web 🌍
-- [LinkedIn](https://www.linkedin.com/in/juanenciso) 💼  
+- [LinkedIn](www.linkedin.com/in/juansebastianenciso) 💼  
 - [GitHub](https://github.com/juanenciso) 🧬  
-- 📧 Email: juan.enciso@email.com  
+- 📧 Email: juan.enciso.cv@gmail.com  
 
 ---
 
